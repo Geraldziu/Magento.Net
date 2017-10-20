@@ -7,3 +7,4 @@ The project aims to create such tools:
 - Windows service that provides two-way communication between the SQL database and Magento
 
 Any help and willingness to cooperate appreciated.
+Contact me at  <magento.net@it-gdansk.pl> domain.
